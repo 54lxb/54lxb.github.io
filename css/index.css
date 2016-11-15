@@ -57,21 +57,11 @@ article {
 	border-radius: 10px;	
 }
 /* article start */
-article .title {
-	border-bottom: 1px solid #fff;
-	font-size: 1.6em;
-	font-weight: bolder;
-	padding: 2.5%;
+article .description {
+	font-size: 1.4em;
+	padding:  1%;
+	text-indent: 40px;
 }
 
-article ul li {
-	list-style: none;
-	text-indent: 35px;
-}
-
-article img {
-	margin-top: 2%;
-	margin-bottom: 2%;
-}
 
 /* article end */
