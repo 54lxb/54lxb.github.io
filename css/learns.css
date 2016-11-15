@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+
+/* article start */
+.container .col-md-12 {
+	margin-top: 40px;
+}
+
+article .col-md-12 {
+	background: rgba(119,195,218,0.6);
+	padding: 2%;
+	border-radius: 10px;
+}
+
+article h2 {
+	height: 40px;
+	overflow: hidden;
+	line-height: 40px;
+	font-size: 1.5em;
+	font-weight: bolder;
+	padding-left: 5px;
+	color: #325EBD;
+}
+
+article h2 a:hover { 
+	padding-left:20px; 
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s; 
+	-moz-transition: all 0.5s; 
+	-o-transition: all 0.5s;
+}
+
+article .article-content .col-md-9 {
+	text-indent: 35px;
+	font-size: 1.2em;
+	padding: 2%;
+}
+
+
+article .article-permalink {
+	text-align: right;
+}
+
+/* article end */

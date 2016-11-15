@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+.container .col-md-12 {
+	margin-top: 40px;
+}
+.say-board {
+	background: rgba(119,195,218,0.3);
+	border: 2px solid rgba(119,195,218,0.3);
+	border-radius: 10px;
+	padding: 1%;
+	margin-top: 10px;
+}
+
+.col-md-8 {
+	text-indent: 35px;
+	font-size: 1.3em;
+}
+
+.col-md-2 p {
+	font-size: 1em !important;
+}
+
+.date-time {
+  	display: block;
+    width: 90px;
+    height: 25px;
+    line-height: 25px;
+    background: #ee5a5a;
+    border-radius: 5px;
+    text-align: center;
+    color: #fff;
+    font-size: 1.2em;
+}
+
